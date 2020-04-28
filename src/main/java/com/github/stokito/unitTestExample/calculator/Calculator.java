@@ -16,6 +16,7 @@ public class Calculator {
 
 	public int multiply(int a, int b) {
 		return a * b;
+		//some comments for new push
 	}
 
 }
