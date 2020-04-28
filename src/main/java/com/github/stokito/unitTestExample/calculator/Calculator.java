@@ -7,7 +7,9 @@ public class Calculator {
 	}
 
 	public int minus(int a, int b) {
-		return a - b;  // ERROR!!!
+		int c = 0;
+		c = a-b;
+		return c;  // ERROR!!!??
 	}
 
 	public int divide(int a, int b) {
